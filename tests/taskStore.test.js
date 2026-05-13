@@ -13,7 +13,7 @@ describe('TaskStore', () => {
       const task = store.addTask('Write unit tests');
       expect(task).toMatchObject({
         title: 'Write unit tests',
-        status: 'closed',
+        status: 'open',
         completedAt: null,
       });
       expect(task.id).toBeDefined();
