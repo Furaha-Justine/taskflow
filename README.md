@@ -32,3 +32,12 @@ npm test                   # → 29 tests, 98.6% coverage
 | Backlog & Sprint Plans | docs/sprint0/BACKLOG_AND_SPRINT_PLANS.md |
 | Sprint 1 Review & Retro | docs/sprint1/SPRINT1_REVIEW_AND_RETRO.md |
 | Sprint 2 Review & Retro | docs/sprint2/SPRINT2_REVIEW_AND_RETRO.md |
+
+### Sceenshots
+   ### Test Results
+   ![Tests](screenshots/tests.png)
+   ### Failed Pipeline Run
+   ![TestsOnFail](screenshots/fail test.png)
+   ### Successful Pipeline Run
+   ![SuccessOnTests](screenshots/sucess test.png)
+   ![Monitoring](screenshots/monitoring.png)
